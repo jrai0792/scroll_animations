@@ -1,5 +1,20 @@
 # scroll_animations
 
+> Implemented scroll animation effect on the content. The elements appear when the scroll event occurs.
+
+## Live Demo
+
+[Live Demo Link](https://jyotirai-projects-scroll-animations.netlify.app/)
+
+
+![screenshot](./screenshot.png)
+
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
 
 ## Authors
 
